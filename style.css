@@ -1,4 +1,15 @@
-.title-big
-{
-    color:red;
+tr:nth-child(2n) {
+    font-size: 3px;
+}
+
+a{
+    color:blue;
+
+}
+
+a:focus {
+    color: green;
+}
+
+
 }
