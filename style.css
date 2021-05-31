@@ -8,12 +8,16 @@ body {
 
  .header img {
      width : 100%;
-    padding: 20px
+    padding: 20px;
      height : auto;
  }
 
  .header-nav {
      margin:50px 0;
+ }
+
+ .header-nav a {
+     padding: 0 10px;
  }
 
  .header-title {
