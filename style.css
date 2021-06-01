@@ -4,12 +4,14 @@ body {
 .header {
     background:grey;
     padding: 20px;
+    height: auto;
+    color : white
  }
 
  .header img {
      width : 100%;
     padding: 20px;
-     height : auto;
+     
  }
 
  .header-nav {
@@ -18,6 +20,7 @@ body {
 
  .header-nav a {
      padding: 0 10px;
+     color :inherit;
  }
 
  .header-title {
