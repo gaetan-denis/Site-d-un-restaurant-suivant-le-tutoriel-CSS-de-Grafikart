@@ -1,11 +1,15 @@
 body {
     margin: 0;
+    line-height : 1,4;
+    letter-spacing:0,2px;
+    font-family: "Source Sans Pro", sans-serif;
 }
 .header {
     background:grey;
     padding: 20px;
     height: auto;
-    color : white
+    color : #FFFFFF;
+
  }
 
  .header img {
@@ -29,6 +33,7 @@ body {
  .main {
      background: lightgrey;
      padding : 20px;
+     font-size : 16px
       }
 
 .footer {
