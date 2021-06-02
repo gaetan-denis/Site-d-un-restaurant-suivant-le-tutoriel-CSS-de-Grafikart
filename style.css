@@ -62,3 +62,12 @@ body {
     padding : 10px 20px;
 }
 
+.button {
+    color:#fff;
+    background:#5834cf;
+    text-decoration: none;
+    font-size : 1rem;
+    padding : 0.4 0.5;
+   
+}
+
