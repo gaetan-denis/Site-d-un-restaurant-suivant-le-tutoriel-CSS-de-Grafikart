@@ -1,3 +1,7 @@
+html, body {
+    font-size :20;
+}
+
 body {
     margin: 0;
     line-height : 1,4;
@@ -49,7 +53,7 @@ body {
       }
 
 .main p {
-    text-decoration: underline;
+    margin-bottom : 1,5em;
     text-align: justify;
 }
 
