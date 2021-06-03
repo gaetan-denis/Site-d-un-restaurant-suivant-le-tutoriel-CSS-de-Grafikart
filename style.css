@@ -25,10 +25,10 @@ body {
  }
 
  .header-nav {
-    position: absolute;
-    top:0;
-    left:0;
-    right:0;
+    position: relative;
+    top:20;
+    left:10;
+    right:10;
     margin:20px 0;
     text-align: center;
     background: lightcoral;
@@ -70,7 +70,10 @@ body {
     background:#5834cf;
     text-decoration: none;
     font-size : 1rem;
-    padding : 0.4 0.5;
+    padding : 0.2em 0.5em;
+    position : absolute;
+    top:0;
+    left:0;
    
 }
 
