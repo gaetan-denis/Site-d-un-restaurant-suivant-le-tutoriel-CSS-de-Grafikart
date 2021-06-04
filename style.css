@@ -25,13 +25,13 @@ body {
  }
 
  .header-nav {
-    position: relative;
-    top:20;
-    left:10;
-    right:10;
+    position: sticky;
     margin:20px 0;
     text-align: center;
     background: lightcoral;
+    top:0;
+    left:0;
+    right:0;
  }
 
  .header-nav a {
@@ -71,9 +71,12 @@ body {
     text-decoration: none;
     font-size : 1rem;
     padding : 0.2em 0.5em;
-    position : absolute;
-    top:0;
-    left:0;
+    
    
+}
+
+.alignleft {
+    float:left;
+    margin-right:15px;
 }
 
